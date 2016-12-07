@@ -1,0 +1,1 @@
+some content for the contact page via a controller.
